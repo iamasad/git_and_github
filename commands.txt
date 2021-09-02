@@ -1,0 +1,14 @@
+--Getting git on you system-- 
+First thing you have to do before learning git is to go to https://git-scm.com/downloads and download git bash.
+
+verify by typing command git --version 
+
+"C:\Users\Asad>git --version
+ git version 2.32.0.windows.2"
+
+-- Create project --
+Now first create a directory anywhere on you system (in my case I did it on Desktop) this folder will content you all the project file
+Navigate that directory on commad using cd "path"
+
+to initilize run command - git init
+
